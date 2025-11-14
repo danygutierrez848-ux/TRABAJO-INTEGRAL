@@ -1,6 +1,6 @@
 ## Trabajo Integrador Final
 ## Integrantes del equipo 
--Marcelo Mazquida
+-Marcelo Mezquida
 _EzequielBarquera
 _Jose Daniel Gutierrez
 ## TUT 
