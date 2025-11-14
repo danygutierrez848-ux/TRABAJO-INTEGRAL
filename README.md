@@ -1,2 +1,13 @@
-Trabajo Integrador de la materia de Programacion. Conformado por Marcelo Mazquida, EzequielBarquera y Jos Daniel Gutierrez.
-Este trabajo consta de la de la resolucion de 10 (diez) ejercios.
+## Trabajo Integrador Final
+## Integrantes del equipo 
+-Marcelo Mazquida
+_EzequielBarquera
+_Jose Daniel Gutierrez
+## TUT 
+Tecnicatura Universitaria en Telecomunicaciones
+## TUT - PROGRAMACIÓN
+Programacion
+## Programa Utilizado
+Pseint
+## Descripcion
+Armar los Algoritmo de lo 10 (diez) ejercicos propurstos.
